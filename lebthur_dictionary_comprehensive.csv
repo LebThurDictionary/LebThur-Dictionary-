@@ -65,7 +65,7 @@ To kill,nak,nek,nek,Verb,Action verb.
 Lake / River,nam,nam,nam,Noun,Water body.
 Day / Sleep,nino,nino,nino,Noun/Verb,Time/rest.
 To give birth,nywal,nywal,nywal,Verb,Biological action.
-Karimojong_daughter,Nya_pa_alok,Nyalok,nyalok.
+Karimojong_daughter,Nya_pa_alok,Nyalok,nyalok,noun.
 Near / Close,ocok,ocok,ocok,Adjective,Proximity.
 Baboon,okeno,anger,anger,Noun,Animal term.
 Lost,olal,olal,olal,Adjective,State.
